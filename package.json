@@ -1,0 +1,21 @@
+{
+  "name": "querynest",
+  "version": "1.0.0",
+  "description": "QueryNest — AI-Powered Document Knowledge Workspace using MERN & Local LLM (RAG)",
+  "scripts": {
+    "server": "npm --prefix server run dev",
+    "client": "npm --prefix client run dev",
+    "build:client": "npm --prefix client run build",
+    "start": "npm --prefix server run start"
+  },
+  "keywords": [
+    "querynest",
+    "rag",
+    "ollama",
+    "mern",
+    "mongodb-atlas",
+    "pdf"
+  ],
+  "author": "QueryNest Team",
+  "license": "ISC"
+}
